@@ -72,7 +72,7 @@ game.StarterGui:SetCore(
 
 local L_3_ = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
-local L_4_ = L_3_.CreateLib("15x", "BloodTheme")
+local L_4_ = L_3_.CreateLib("0XIGENWARE", "BloodTheme")
 
 local L_5_ = L_4_:NewTab("Aimlock")
 
@@ -844,7 +844,7 @@ end
 
 local L_13_ = L_4_:NewTab("Settings")
 
-local L_14_ = L_13_:NewSection("15X")
+local L_14_ = L_13_:NewSection("0XIGENWARE")
 
 L_14_:NewKeybind(
 
