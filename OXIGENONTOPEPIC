@@ -64,8 +64,7 @@ game.StarterGui:SetCore(
 
 	Title = "0XIGENWARE",
 
-	Text = "JOIN https://discord.gg/jp5Puv4tWT
-GUI BY G_87#5392",
+	Text = "JOIN .gg/jp5Puv4tWT",
 
 }
 
