@@ -254,7 +254,7 @@ L_6_:NewDropdown(
 end
 )
 local L_7_ = L_4_:NewTab("Silent Aim")
-local L_8_ = L_7_:NewSection("15x")
+local L_8_ = L_7_:NewSection("0XIGENWARE")
 L_8_:NewButton(
     "Silent Aim",
     "Silent Aim Toggle Key is T.",
