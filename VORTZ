@@ -1,5 +1,5 @@
 --[[
-15X SOURCE LEAKED                                                                                                                                                                      
+VORTZ ON TOP                                                                                                                                                                      
 --]]
 
 
@@ -297,7 +297,7 @@ L_8_:NewToggle(
 end
 )
 local L_11_ = L_4_:NewTab("Antilock")
-local L_12_ = L_11_:NewSection("0XIGENWARE")
+local L_12_ = L_11_:NewSection("VORTZ")
 L_12_:NewButton(
     "Anti-Lock",
     "Key is Z.",
