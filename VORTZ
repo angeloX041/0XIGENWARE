@@ -33,12 +33,12 @@ end
 game.StarterGui:SetCore(
     "SendNotification",
     {
-	Title = "VORTZ",
+	Title = "VORTZ ",
 	Text = "JOIN https://discord.gg/jp5Puv4tWT",
 }
 )
 local L_3_ = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local L_4_ = L_3_.CreateLib("VORTZ"), "BloodTheme")
+local L_4_ = L_3_.CreateLib("VORTZ", "BloodTheme")
 local L_5_ = L_4_:NewTab("Aimlock")
 local L_6_ = L_5_:NewSection("VORTZ")
 L_6_:NewButton(
