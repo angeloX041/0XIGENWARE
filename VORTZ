@@ -1,5 +1,5 @@
 --[[
-VORTZ ON TOP                                                                                                                                                                      
+15X SOURCE LEAKED                                                                                                                                                                      
 --]]
 
 
@@ -34,7 +34,7 @@ game.StarterGui:SetCore(
     "SendNotification",
     {
 	Title = "VORTZ ",
-	Text = "JOIN https://discord.gg/jp5Puv4tWT",
+	Text = "JOIN .gg/jp5Puv4tWT",
 }
 )
 local L_3_ = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
