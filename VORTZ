@@ -33,14 +33,14 @@ end
 game.StarterGui:SetCore(
     "SendNotification",
     {
-	Title = "0XIGENWARE ",
+	Title = "VORTZ",
 	Text = "JOIN https://discord.gg/jp5Puv4tWT",
 }
 )
 local L_3_ = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local L_4_ = L_3_.CreateLib("0XIGENWARE", "BloodTheme")
+local L_4_ = L_3_.CreateLib("VORTZ", "BloodTheme")
 local L_5_ = L_4_:NewTab("Aimlock")
-local L_6_ = L_5_:NewSection("0XIGENWARE")
+local L_6_ = L_5_:NewSection("VORTZ")
 L_6_:NewButton(
     "Aimlock",
     "Beam niggas down",
@@ -254,7 +254,7 @@ L_6_:NewDropdown(
 end
 )
 local L_7_ = L_4_:NewTab("Silent Aim")
-local L_8_ = L_7_:NewSection("0XIGENWARE")
+local L_8_ = L_7_:NewSection("VORTZ")
 L_8_:NewButton(
     "Silent Aim",
     "Silent Aim Toggle Key is T.",
@@ -424,7 +424,7 @@ L_12_:NewButton(
 end
 )
 local L_13_ = L_4_:NewTab("Settings")
-local L_14_ = L_13_:NewSection("0XIGENWARE")
+local L_14_ = L_13_:NewSection("VORTZ")
 L_14_:NewKeybind(
     "Keybind Gui Toggle",
     "h",
@@ -435,7 +435,7 @@ end
 )
 local L_17_ = L_4_:NewTab("ESP")
 local L_18_ = loadstring(game:HttpGet("https://kiriot22.com/releases/ESP.lua"))()
-local L_19_ = L_17_:NewSection("0XIGENWARE")
+local L_19_ = L_17_:NewSection("VORTZ")
 L_19_:NewToggle(
     "ESP",
     "ESP",
